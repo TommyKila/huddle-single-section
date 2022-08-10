@@ -42,6 +42,7 @@ p {
     color: hsla(0, 0%, 100%, 0.8);
     width: 96%;
     margin-top: 1em;
+    font-size: 0.9rem;
 }
 
 h1 {
@@ -64,11 +65,11 @@ button {
 .container {
     display: flex;
     gap: 3.5em;
-    width: 1336px;
+    width: 1300px;
 }
 
 header {
-    width: 1336px;
+    width: 1300px;
     margin-bottom: 3em;
 }
 
@@ -133,12 +134,13 @@ svg:hover {
 
     .container,
     header {
-        width: 1000px;
+        width: 980px;
     }
 
     footer {
         justify-content: center;
         margin-top: 3em;
+        width: 980px;
     }
 
     body {
@@ -220,3 +222,4 @@ svg:hover {
         width: 50%;
     }
 }
+
