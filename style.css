@@ -118,7 +118,7 @@ svg:hover {
 @media screen and (max-width:1440px) {
     body {
         height: auto;
-        background-size: cover;
+        background-size: contain;
     }
 
     header {
